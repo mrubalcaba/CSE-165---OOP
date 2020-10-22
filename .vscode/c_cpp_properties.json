@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Melanie Medina\\Documents\\CSE 165\\TicTacToe\\melanie-rubalcaba\\dep",
+                "C:/Users/Melanie Medina/Documents/CSE 165/TicTacToe/melanie-rubalcaba/inc",
+                "C:/Users/Melanie Medina/Documents/CSE 165/TicTacToe/melanie-rubalcaba/dep",
+                "${workspaceFolder}/TicTacToe/melanie-rubalcaba",
+                "C:\\Users\\Melanie Medina\\Documents\\vcpkg\\installed\\x86-windows\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.15063.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.11.25503/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

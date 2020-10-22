@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\chart",
+    "\\dep",
+    "\\inc",
+    "\\misc",
+    "\\obj",
+    "\\scratchpad",
+    "\\static",
+    "\\templates",
+    "\\test"
+  ],
+  "SelectedNode": "\\src\\app.cpp",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,11 @@
+{
+    "bracket-pair-colorizer-2.colors": [
+
+        "DeepSkyBlue",
+        "Aqua",
+        "DodgerBlue",
+        "Blue"
+       
+    ],
+    "editor.formatOnSave": true
+}
